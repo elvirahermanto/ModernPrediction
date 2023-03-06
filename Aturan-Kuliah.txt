@@ -1,4 +1,8 @@
 Peraturan MK Modern Prediction and Machine Learning:
+Presentase Nilai Tugas = 30%
+Presentase Nilai UTS = 20%
+Presentase Nilai UAS = 50%
+
   + Perkuliahan oleh dosen Elvira
     + Perkuliahan dilakukan secara daring melalui Zoom
     + Mahasiswa yang tidak menjawab ketika dipanggil akan dikeluarkan dari kelas dan akan dianggap tidak mengikuti perkuliahan
@@ -8,3 +12,7 @@ Peraturan MK Modern Prediction and Machine Learning:
     + Ada UTS sesuai jadwal
         
   + Perkuliahan oleh dosen Athoillah
+    + Perkuliahan dilakukan luring di kampus
+    + Mahasiswa tidak diperkenankan terlambat lebih dari 10 menit (akan mengurangi nilai)
+    + Ada tugas besar
+    + ada UAS
