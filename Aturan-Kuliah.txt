@@ -9,10 +9,10 @@ Presentase Nilai UAS = 40%
     + Tidak mentolerir plagiasi dalam bentuk apapun
     + Mahasiswa yang terlambat lebih dari 10 menit ketika kelas sudah dimulai tidak akan diijinkan masuk dalam kelas Zoom
     + Ada tugas besar
-    + Ada UTS sesuai jadwal
+    + Ada UTS submit jurnal
         
   + Perkuliahan oleh dosen Athoillah
     + Perkuliahan dilakukan luring di kampus
     + Mahasiswa tidak diperkenankan terlambat lebih dari 10 menit (akan mengurangi nilai)
     + Ada tugas besar
-    + ada UAS
+    + ada UAS submit jurnal
