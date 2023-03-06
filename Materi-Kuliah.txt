@@ -7,3 +7,4 @@
   + Naive Bayes
   + Regresi Logistik
   + KNN
+  + SVM
