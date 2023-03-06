@@ -7,5 +7,4 @@
 3. Supervised Method
   + Naive Bayes
   + decision Tree
-  + Regresi Logistik
   + KNN
