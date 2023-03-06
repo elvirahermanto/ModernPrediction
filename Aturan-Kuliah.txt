@@ -1,6 +1,6 @@
 Peraturan MK Modern Prediction and Machine Learning:
-Presentase Nilai Tugas = 30%
-Presentase Nilai UTS = 20%
+Presentase Nilai Tugas = 20%
+Presentase Nilai UTS = 30%
 Presentase Nilai UAS = 50%
 
   + Perkuliahan oleh dosen Elvira
