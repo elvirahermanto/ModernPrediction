@@ -8,3 +8,4 @@
   + Regresi Logistik
   + KNN
   + SVM
+  + Jaringan syaraf tiruan
